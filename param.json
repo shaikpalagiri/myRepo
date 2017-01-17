@@ -1,0 +1,23 @@
+[
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  }, 
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "shaik"
+  },
+  {
+  "ParameterKey": "InstanceSecurityGroup",
+      "ParameterValue": "sg-b56dc6cc"
+   },   
+  {
+    "ParameterKey": "ImageID",
+    "ParameterValue": "ami-6f68cf0f"
+  },
+  {
+    "ParameterKey": "SubnetId",
+    "ParameterValue": "subnet-cf4ed997"
+  }
+  
+]
